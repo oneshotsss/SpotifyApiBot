@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyApiProject", "SpotifyApiProject\SpotifyApiProject.csproj", "{5360A47D-FF0A-41D6-947F-F9081DD949AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotProject", "TelegramBotProject\TelegramBotProject.csproj", "{55C17D9D-AAAE-401E-B3B8-C777E76DAB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5360A47D-FF0A-41D6-947F-F9081DD949AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5360A47D-FF0A-41D6-947F-F9081DD949AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5360A47D-FF0A-41D6-947F-F9081DD949AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5360A47D-FF0A-41D6-947F-F9081DD949AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C17D9D-AAAE-401E-B3B8-C777E76DAB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C17D9D-AAAE-401E-B3B8-C777E76DAB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C17D9D-AAAE-401E-B3B8-C777E76DAB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C17D9D-AAAE-401E-B3B8-C777E76DAB57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F01E9BB-76AA-47E1-86CD-AC5C017AB6B9}
+	EndGlobalSection
+EndGlobal

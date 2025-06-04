@@ -1,0 +1,6 @@
+@SpotifyApiProject_HostAddress = http://localhost:5192
+
+GET {{SpotifyApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
